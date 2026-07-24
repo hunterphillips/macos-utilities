@@ -1,0 +1,4 @@
+# Index repo: track only the README. Each utility lives in its own repo.
+/*
+!/README.md
+!/.gitignore

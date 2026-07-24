@@ -1,6 +1,6 @@
 # MacOS Utilities
 
-Small macOS menu bar utilities built for my own workflow.
+Personal MacOS desktop utilities.
 
 ## [clean-screen](https://github.com/hunterphillips/clean-screen)
 

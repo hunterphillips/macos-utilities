@@ -1,4 +1,4 @@
-# MacOS Utilities
+# MacOS utilities
 
 Personal MacOS desktop utilities.
 

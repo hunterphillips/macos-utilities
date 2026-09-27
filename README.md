@@ -11,7 +11,8 @@ all app windows, then restores them exactly.
 
 ## [restore-layout](https://github.com/hunterphillips/restore-layout)
 
-Save your window layout once; one shortcut (`⌃⌥⌘R`) puts every window back
-after a monitor unplug or a maximized window scrambles things.
+Save your window layout for the laptop alone and for each set of monitors
+you dock to; one shortcut (`⌃⌥⌘R`) puts every window back, or let it restore
+on its own when you plug in or unplug.
 
 ![restore-layout before and after](https://raw.githubusercontent.com/hunterphillips/restore-layout/main/assets/before-after.png)

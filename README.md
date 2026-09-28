@@ -11,8 +11,8 @@ all app windows, then restores them exactly.
 
 ## [realign](https://github.com/hunterphillips/realign)
 
-Save your window layout for the laptop alone and for each set of monitors
-you dock to; one shortcut (`⌃⌥⌘R`) puts every window back, or let it restore
-on its own when you plug in or unplug.
+Arrange and save your window layout. Quickly restore a saved layout with a
+keyboard shortcut or restore automatically when you plug in or unplug
+external monitors.
 
 ![realign before and after](https://raw.githubusercontent.com/hunterphillips/realign/main/assets/before-after.png)

@@ -11,7 +11,7 @@ all app windows, then restores them exactly.
 
 ## [realign](https://github.com/hunterphillips/realign)
 
-Arrange and save your window layout. Restore a saved layout with a keyboard
-shortcut or automatically when you plug in or unplug external monitors.
+Save and quickly restore your window layout. Auto-apply when connecting or
+disconnecting external monitors.
 
 ![realign before and after](https://raw.githubusercontent.com/hunterphillips/realign/main/assets/before-after.png)
